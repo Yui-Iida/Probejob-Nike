@@ -41,6 +41,7 @@ I would add and improve:
 - Make the select size dropdown work on mobile size. (less than 768px)
 - Create objects for each sneakers with name, price, size, rate, etc. and implement on JavaScript(eg. Set the background image from the object, not hard-corded)
 - Add more function (eg. shopping card, infomation, etc)
+- Implement with React components
 - Add designs on the page below
 - Add Other pages
 
