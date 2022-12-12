@@ -13,6 +13,9 @@ Im Daily Business machen wir pro Breakpoint ein Layout, für diesen Probejob
 wollen wir sehen, wie du damit umgehst, wenn wir nur 1 Breakpoint gelayoutet haben.
 D. h. bitte responsive umsetzen.
 
+![スクリーンショット 2022-12-12 9 02 43](https://user-images.githubusercontent.com/92433326/206992609-6db90970-eb3d-47d6-8af8-de0616f63de8.png)
+(Original pic)
+
 ## Technology used
 
 HTML, CSS, JavaScript, Bootstrap Icon, Googlefont
