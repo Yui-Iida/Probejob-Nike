@@ -17,6 +17,10 @@ D. h. bitte responsive umsetzen.
 
 HTML, CSS, JavaScript, Bootstrap Icon, Googlefont
 
+## Time used
+
+About 10-11hours
+
 ## Tests
 
 I did testing manually with checking on my browser below and passed:
